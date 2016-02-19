@@ -33,7 +33,7 @@ reuse code for server.js
 
 write index.html and js/firebase.js
 
-`browserify js/firebase.js -o bundle.js`
+`browserify js/firebase.js -o public/bundle.js`
 
 ```
 npm i
