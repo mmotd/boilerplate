@@ -35,4 +35,7 @@ write index.html and js/firebase.js
 
 `broswerify js/firebase.js -o bundle.js`
 
-`npm start`
+```
+npm i
+npm start
+```
